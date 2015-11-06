@@ -3,17 +3,72 @@ ul{
 }
 
 footer{
-  background: lightgrey;
+  background-color: black;
   padding: 1em;
   margin-top: 1em;
+  color: white;
 }
 
 .sign{
-  background: lightgrey;
-  padding: 1em;
+  background: black;
+  padding: 1.5em;
   margin-top: 1em;
 }
 
-/*main{
-  margin: 1rem;
-}*/
+.logo{
+  width: 5em;
+}
+
+header{
+  background-color: black;
+  padding-bottom: 1em;
+}
+
+nav, nav a, nav a:hover{
+  text-decoration: none;
+  color: #F15A29;
+}
+
+a,a:hover{
+  text-decoration: none;
+  color: #F15A29;
+  padding: .5rem;
+}
+
+.banner{
+  background-image: url(../assets/startup_2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 5em;
+  text-align: center;
+  color: white;
+}
+
+.banner2{
+  background-image: url(../assets/meeting_2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 5em;
+  text-align: center;
+  color: white;
+}
+
+.banner3{
+  background-image: url(../assets/computer_2.jpg);
+  background-size: cover;
+
+  background-repeat: no-repeat;
+  padding: 5em;
+  text-align: center;
+  color: white;
+}
+
+.box{
+  margin: 1em;
+  background-color: lightgrey;
+  padding: 1em;
+}
+
+@media only screen and (min-width: 38em){
+
+}
