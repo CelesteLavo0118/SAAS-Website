@@ -39,7 +39,7 @@ a,a:hover{
   background-image: url(../assets/startup_2.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-  padding: 5em;
+  padding: 3em;
   text-align: center;
   color: white;
 }
@@ -65,8 +65,9 @@ a,a:hover{
 
 .box{
   margin: 1em;
-  background-color: lightgrey;
+  background-color: black;
   padding: 1em;
+  color: white;
 }
 
 @media only screen and (min-width: 38em){
