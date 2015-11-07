@@ -16,7 +16,8 @@ footer{
 }
 
 .logo{
-  width: 5em;
+  width: 6em;
+  padding: .5rem;
 }
 
 header{
@@ -34,6 +35,7 @@ a,a:hover{
   color: #F15A29;
   padding: .5rem;
   font-family: 'Archivo Narrow', sans-serif;
+  border: 1px solid #F15A29;
 }
 
 .banner{
