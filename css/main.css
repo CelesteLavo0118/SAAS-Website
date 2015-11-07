@@ -26,12 +26,14 @@ header{
 nav, nav a, nav a:hover{
   text-decoration: none;
   color: #F15A29;
+  font-family: 'Archivo Narrow', sans-serif;
 }
 
 a,a:hover{
   text-decoration: none;
   color: #F15A29;
   padding: .5rem;
+  font-family: 'Archivo Narrow', sans-serif;
 }
 
 .banner{
@@ -81,6 +83,10 @@ a,a:hover{
   padding: 1em;
   color: white;
   max-height: ;
+}
+
+h1, h2, h3{
+  font-family: 'Archivo Narrow', sans-serif;
 }
 
 @media only screen and (min-width: 38em){
