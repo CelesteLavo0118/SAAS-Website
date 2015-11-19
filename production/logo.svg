@@ -4,13 +4,12 @@
 	 width="145.6px" height="97.2px" viewBox="-322 258.8 145.6 97.2" style="enable-background:new -322 258.8 145.6 97.2;"
 	 xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#939598;enable-background:new    ;}
+	.st0{fill:#F05A28;}
 	.st1{fill:none;}
-	.st2{fill:#FFFFFF;}
-	.st3{font-family:'AkzidenzGroteskBQ-Reg';}
-	.st4{font-size:22px;}
+	.st2{font-family:'Blanch-Caps';}
+	.st3{font-size:97.5446px;}
 </style>
-<ellipse class="st0" cx="-248.3" cy="305.4" rx="71.9" ry="46.6"/>
-<rect x="-322" y="295.5" class="st1" width="145.6" height="19.8"/>
-<text transform="matrix(1 0 0 1 -307.6532 311.2682)" class="st2 st3 st4">StudioRoom</text>
+<circle class="st0" cx="-249.2" cy="307.4" r="47.5"/>
+<rect x="-279.3" y="282.8" class="st1" width="63.2" height="49.2"/>
+<text transform="matrix(1 0 0 1 -277.0281 331.0861)" class="st2 st3">SR</text>
 </svg>
