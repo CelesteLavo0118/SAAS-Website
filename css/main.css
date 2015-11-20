@@ -49,6 +49,7 @@ a,a:hover{
   padding: 3.5em;
   text-align: center;
   color: white;
+  background-color: black;
 }
 
 .banner2{
@@ -58,6 +59,7 @@ a,a:hover{
   padding: 5em;
   text-align: center;
   color: white;
+  background-color: black;
 }
 
 .banner3{
@@ -67,11 +69,13 @@ a,a:hover{
   padding: 5em;
   text-align: center;
   color: white;
+  background-color: black;
 }
 
 .banner4{
   text-align: center;
   padding: 1em;
+  background-color: black;
 }
 
 .banner5{
@@ -81,6 +85,7 @@ a,a:hover{
   padding: 5em;
   text-align: center;
   color: white;
+  background-color: black;
 }
 
 .box{
