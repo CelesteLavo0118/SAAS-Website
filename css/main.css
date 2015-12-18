@@ -34,6 +34,7 @@ nav, nav a, nav a:hover{
   text-decoration: none;
   color: #F15A29;
   font-family: 'Archivo Narrow', sans-serif;
+  margin-bottom: .5em;
 }
 
 nav a{
