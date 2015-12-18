@@ -39,7 +39,61 @@
       <h2>Sign Up</h2>
     </div>
 
-    <div class="grid">
+    <form action="https://formspree.io/celeste.lavoie@gmail.com" method="post">
+
+    <div>
+      <label for="name">Name</label>
+      <input id="name" required placeholder="John Doe" name="name">
+    </div>
+
+    <div>
+      <label for="email">Email</label>
+      <input id="email" type="email" name="email" required placeholder="you@example.com">
+    </div>
+
+    <div>
+      <label for="birth">Date of birth</label>
+      <input id="birth" name="birth" required placeholder="yyyy-mm-dd">
+    </div>
+
+    <div>
+      <label for="memebership" >Memebership</label>
+      <select id="membership" name="_membership" required>
+        <option>Basic Membership</option>
+        <option>Premium Membership</option>
+        <option>Elite Membership</option>
+      </select>
+    </div>
+
+    <div>
+      <label for="payment" >Memebership</label>
+      <select id="payment" name="_payment">
+        <option>Paypal</option>
+        <option>Visa</option>
+        <option>Mastercard</option>
+      </select>
+    </div>
+
+    <div>
+      <label for="paypal">Paypal email</label>
+      <input id="paypal" type="email" name="paypal email" placeholder="you@example.com">
+    </div>
+
+    <div>
+      <label for="credit">Credit card number</label>
+      <input id="credit" name="credit card" placeholder="XXX-XXXX-XXXX">
+    </div>
+
+    <div>
+      <button type="submit">Done</button>
+    </div>
+
+    <input type="hidden" name="_next"
+    value="http://celestelavo0118.github.io/SAAS-Website/thanks.html">
+
+  </form>
+
+    <!--<div class="grid">
       <div class="unit xs-1 s-1 m-1-2 l-1-2">
         <div class="box2">
         <p> Name: <input placeholder="Name"></input></p>
@@ -86,7 +140,7 @@
         <li><a href="thanks.html">Done</a></li>
       </ul>
     </div>
-  </main>
+  </main>-->
 
   <footer>
     <p>©2015 Studio room. All Rights Reserved </p>
